@@ -6,8 +6,8 @@ Welcome to the Gucci E-Commerce app, an Android app designed to showcase Gucci's
 
 1. Clone the repository using the following command:
     
-    
-    [https://github.com/vinayak-suneja/Gucci-E-Commerce-App.git](https://github.com/vinayak-suneja/Gucci-E-Commerce-App.git)
+    bashCopy code
+git clone [https://github.com/vinayak-suneja/Gucci-E-Commerce-App.git](https://github.com/vinayak-suneja/Gucci-E-Commerce-App.git)
     
 2. Open the project in Android Studio.
 3. Copy the main xml and java file code and paste it in the activity_main.xml and activity_main.java respectively
