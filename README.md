@@ -2,6 +2,8 @@
 
 Welcome to the Gucci E-Commerce app, an Android app designed to showcase Gucci's products and allow users to purchase them directly from the app. This app was built using Android Studio and integrates with Gucci's online store to provide real-time product information and inventory updates.
 
+![image](https://user-images.githubusercontent.com/80875700/221039763-dce2db6d-e2a3-4a89-a9c9-fea14648f1d7.png)
+
 ## **Getting Started**
 
 1. Clone the repository using the following command:
